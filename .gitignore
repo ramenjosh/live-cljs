@@ -7,3 +7,4 @@ src/pinot*
 src/noir*
 cljs-macros*
 .repl*
+target/
